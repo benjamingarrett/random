@@ -12,9 +12,6 @@
 extern "C" {
 #endif
 
-  #include<math.h>
-  #include<stdint.h>
-  #include<stdlib.h>
   int64_t rand_in_range(int64_t min, int64_t max);
   double random_double();
   int64_t rand_in_range_exponential(int64_t min, int64_t max, double lambda);

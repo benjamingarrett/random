@@ -1,7 +1,7 @@
-#include<math.h>
-#include<stdio.h>
-#include<stdint.h>
-#include"random.h"
+#include <math.h>
+#include <stdio.h>
+#include <stdint.h>
+#include "random.h"
 
 int main(){
   int capacity = 40;
